@@ -12,7 +12,7 @@ Use the arrow keys on your keyboard to control the snake's direction:
 
 The goal of the game is to eat the red apples to grow your snake. Be careful not to run into the walls or into yourself!
 
-##Complete code
+## Complete code
 
 <details>
 <summary>Click to expand</summary>
